@@ -1,0 +1,17 @@
+# [ Intermediate by-products ]
+.DS_Store
+.idea/
+__pycache__/
+
+# [ Folders ]
+tests/
+
+
+# [ etc. ]
+*.Rproj
+*.Rproj.user
+*.Rhistory
+*.ipynb_checkpoints/
+*.pversion
+*.ipynb
+*.sh
